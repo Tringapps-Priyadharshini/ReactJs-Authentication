@@ -1,0 +1,12 @@
+.name_logout{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-style: italic;
+    color:blue;
+    text-align: center;
+}
+button{
+    background-color: gold;
+    color: red;
+    font-weight: bold;
+}

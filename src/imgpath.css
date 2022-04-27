@@ -1,0 +1,13 @@
+.picturetitle{
+    background-color: blueviolet;
+    padding:20px;
+    color:white;
+}
+#pictext{
+    text-decoration: none;
+    color:white;
+}
+img{
+    width:700px;
+    height:500px;
+}

@@ -1,0 +1,33 @@
+nav{
+  background-color: crimson;
+  height:80px;
+}
+ul li{
+  list-style-type: none;
+  float: left;
+  margin:25px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size: 20px;
+
+}
+.title{
+  text-decoration: none;
+  color: white;
+}
+.title:hover{
+  border-radius: 5px;
+  background-color: white;
+  color:crimson;
+  padding:10px;
+}
+
+#head{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  font-weight: bold;
+  font-style: oblique;
+  color:white;
+  margin-top:10px;
+  margin-left:700px;
+}
